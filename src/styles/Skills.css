@@ -1,0 +1,16 @@
+.skills-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.skills-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #64FFDA;
+    border-radius: 20px;
+    box-shadow: 1px 1px 25px #64FFDA;
+    width: 300px;
+    height: 300px;
+}

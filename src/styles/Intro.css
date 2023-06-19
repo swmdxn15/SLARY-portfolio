@@ -1,0 +1,36 @@
+#intro{
+    text-align: center;
+}
+.intro-title{
+    font-size: 20px;
+    text-align: center;
+}
+.text-hi{
+    color: #ffffff;
+   
+}
+
+p{
+  font-size: 48px;
+  /* color: #64ffda; */
+  color: #ffffff;
+  text-shadow: 0 0 8px rgba(100, 255, 218, 0.8), 0 0 15px rgba(100, 255, 218, 0.8), 0 0 20px rgba(100, 255, 218, 0.8), 0 0 25px rgba(100, 255, 218, 0.8);
+}
+button {
+    background-color:#644ed6;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: -7px;
+    padding: 10px;
+    border: none;
+    border: 4px solid black;
+    font-family: "NTR", sans-serif;
+}
+button:hover{
+    cursor: pointer;
+    color: black;
+    transform: translateY(-10px);
+}
+
+
